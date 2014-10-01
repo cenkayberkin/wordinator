@@ -5,6 +5,6 @@
 
 >rails-api gem is used. 
 
-![alt text](https://github.com/cenkayberkin/wordinatorApp/blob/dev/screenshots/Screen%20Shot%202014-10-01%20at%2011.48.42%20AM.png)
-![alt text](https://github.com/cenkayberkin/wordinatorApp/blob/dev/screenshots/Screen%20Shot%202014-10-01%20at%2011.49.09%20AM.png)
-![alt text](https://github.com/cenkayberkin/wordinatorApp/blob/dev/screenshots/Screen%20Shot%202014-10-01%20at%2011.49.27%20AM.png)
+![alt text](https://github.com/cenkayberkin/wordinator/blob/dev/screenshots/Screen%20Shot%202014-10-01%20at%2011.48.42%20AM.png)
+![alt text](https://github.com/cenkayberkin/wordinator/blob/dev/screenshots/Screen%20Shot%202014-10-01%20at%2011.49.09%20AM.png)
+![alt text](https://github.com/cenkayberkin/wordinator/blob/dev/screenshots/Screen%20Shot%202014-10-01%20at%2011.49.27%20AM.png)
